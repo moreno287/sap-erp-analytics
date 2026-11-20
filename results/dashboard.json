@@ -1,0 +1,1266 @@
+{
+ "extract_date": "2026-06-30",
+ "monthly_revenue": [
+  {
+   "month": "2024-01",
+   "plant": "1100",
+   "revenue": 259006.0
+  },
+  {
+   "month": "2024-01",
+   "plant": "1200",
+   "revenue": 198610.0
+  },
+  {
+   "month": "2024-01",
+   "plant": "1300",
+   "revenue": 321184.0
+  },
+  {
+   "month": "2024-02",
+   "plant": "1100",
+   "revenue": 311473.0
+  },
+  {
+   "month": "2024-02",
+   "plant": "1200",
+   "revenue": 326639.0
+  },
+  {
+   "month": "2024-02",
+   "plant": "1300",
+   "revenue": 465185.0
+  },
+  {
+   "month": "2024-03",
+   "plant": "1100",
+   "revenue": 395370.0
+  },
+  {
+   "month": "2024-03",
+   "plant": "1200",
+   "revenue": 314002.0
+  },
+  {
+   "month": "2024-03",
+   "plant": "1300",
+   "revenue": 529793.0
+  },
+  {
+   "month": "2024-04",
+   "plant": "1100",
+   "revenue": 547855.0
+  },
+  {
+   "month": "2024-04",
+   "plant": "1200",
+   "revenue": 467021.0
+  },
+  {
+   "month": "2024-04",
+   "plant": "1300",
+   "revenue": 652830.0
+  },
+  {
+   "month": "2024-05",
+   "plant": "1100",
+   "revenue": 571097.0
+  },
+  {
+   "month": "2024-05",
+   "plant": "1200",
+   "revenue": 429904.0
+  },
+  {
+   "month": "2024-05",
+   "plant": "1300",
+   "revenue": 652331.0
+  },
+  {
+   "month": "2024-06",
+   "plant": "1100",
+   "revenue": 491585.0
+  },
+  {
+   "month": "2024-06",
+   "plant": "1200",
+   "revenue": 539435.0
+  },
+  {
+   "month": "2024-06",
+   "plant": "1300",
+   "revenue": 653166.0
+  },
+  {
+   "month": "2024-07",
+   "plant": "1100",
+   "revenue": 584730.0
+  },
+  {
+   "month": "2024-07",
+   "plant": "1200",
+   "revenue": 557587.0
+  },
+  {
+   "month": "2024-07",
+   "plant": "1300",
+   "revenue": 610287.0
+  },
+  {
+   "month": "2024-08",
+   "plant": "1100",
+   "revenue": 552071.0
+  },
+  {
+   "month": "2024-08",
+   "plant": "1200",
+   "revenue": 423810.0
+  },
+  {
+   "month": "2024-08",
+   "plant": "1300",
+   "revenue": 581456.0
+  },
+  {
+   "month": "2024-09",
+   "plant": "1100",
+   "revenue": 464373.0
+  },
+  {
+   "month": "2024-09",
+   "plant": "1200",
+   "revenue": 446564.0
+  },
+  {
+   "month": "2024-09",
+   "plant": "1300",
+   "revenue": 528264.0
+  },
+  {
+   "month": "2024-10",
+   "plant": "1100",
+   "revenue": 473106.0
+  },
+  {
+   "month": "2024-10",
+   "plant": "1200",
+   "revenue": 467830.0
+  },
+  {
+   "month": "2024-10",
+   "plant": "1300",
+   "revenue": 670744.0
+  },
+  {
+   "month": "2024-11",
+   "plant": "1100",
+   "revenue": 467690.0
+  },
+  {
+   "month": "2024-11",
+   "plant": "1200",
+   "revenue": 361318.0
+  },
+  {
+   "month": "2024-11",
+   "plant": "1300",
+   "revenue": 422006.0
+  },
+  {
+   "month": "2024-12",
+   "plant": "1100",
+   "revenue": 313961.0
+  },
+  {
+   "month": "2024-12",
+   "plant": "1200",
+   "revenue": 307915.0
+  },
+  {
+   "month": "2024-12",
+   "plant": "1300",
+   "revenue": 388594.0
+  },
+  {
+   "month": "2025-01",
+   "plant": "1100",
+   "revenue": 335066.0
+  },
+  {
+   "month": "2025-01",
+   "plant": "1200",
+   "revenue": 292158.0
+  },
+  {
+   "month": "2025-01",
+   "plant": "1300",
+   "revenue": 420349.0
+  },
+  {
+   "month": "2025-02",
+   "plant": "1100",
+   "revenue": 290792.0
+  },
+  {
+   "month": "2025-02",
+   "plant": "1200",
+   "revenue": 351842.0
+  },
+  {
+   "month": "2025-02",
+   "plant": "1300",
+   "revenue": 389731.0
+  },
+  {
+   "month": "2025-03",
+   "plant": "1100",
+   "revenue": 507244.0
+  },
+  {
+   "month": "2025-03",
+   "plant": "1200",
+   "revenue": 376284.0
+  },
+  {
+   "month": "2025-03",
+   "plant": "1300",
+   "revenue": 742091.0
+  },
+  {
+   "month": "2025-04",
+   "plant": "1100",
+   "revenue": 552395.0
+  },
+  {
+   "month": "2025-04",
+   "plant": "1200",
+   "revenue": 461736.0
+  },
+  {
+   "month": "2025-04",
+   "plant": "1300",
+   "revenue": 575264.0
+  },
+  {
+   "month": "2025-05",
+   "plant": "1100",
+   "revenue": 521435.0
+  },
+  {
+   "month": "2025-05",
+   "plant": "1200",
+   "revenue": 459217.0
+  },
+  {
+   "month": "2025-05",
+   "plant": "1300",
+   "revenue": 759316.0
+  },
+  {
+   "month": "2025-06",
+   "plant": "1100",
+   "revenue": 570397.0
+  },
+  {
+   "month": "2025-06",
+   "plant": "1200",
+   "revenue": 500018.0
+  },
+  {
+   "month": "2025-06",
+   "plant": "1300",
+   "revenue": 875984.0
+  },
+  {
+   "month": "2025-07",
+   "plant": "1100",
+   "revenue": 677409.0
+  },
+  {
+   "month": "2025-07",
+   "plant": "1200",
+   "revenue": 449714.0
+  },
+  {
+   "month": "2025-07",
+   "plant": "1300",
+   "revenue": 835033.0
+  },
+  {
+   "month": "2025-08",
+   "plant": "1100",
+   "revenue": 612783.0
+  },
+  {
+   "month": "2025-08",
+   "plant": "1200",
+   "revenue": 459815.0
+  },
+  {
+   "month": "2025-08",
+   "plant": "1300",
+   "revenue": 688423.0
+  },
+  {
+   "month": "2025-09",
+   "plant": "1100",
+   "revenue": 563410.0
+  },
+  {
+   "month": "2025-09",
+   "plant": "1200",
+   "revenue": 586533.0
+  },
+  {
+   "month": "2025-09",
+   "plant": "1300",
+   "revenue": 707999.0
+  },
+  {
+   "month": "2025-10",
+   "plant": "1100",
+   "revenue": 480291.0
+  },
+  {
+   "month": "2025-10",
+   "plant": "1200",
+   "revenue": 506908.0
+  },
+  {
+   "month": "2025-10",
+   "plant": "1300",
+   "revenue": 837268.0
+  },
+  {
+   "month": "2025-11",
+   "plant": "1100",
+   "revenue": 473518.0
+  },
+  {
+   "month": "2025-11",
+   "plant": "1200",
+   "revenue": 425776.0
+  },
+  {
+   "month": "2025-11",
+   "plant": "1300",
+   "revenue": 489084.0
+  },
+  {
+   "month": "2025-12",
+   "plant": "1100",
+   "revenue": 376270.0
+  },
+  {
+   "month": "2025-12",
+   "plant": "1200",
+   "revenue": 366604.0
+  },
+  {
+   "month": "2025-12",
+   "plant": "1300",
+   "revenue": 515048.0
+  },
+  {
+   "month": "2026-01",
+   "plant": "1100",
+   "revenue": 469151.0
+  },
+  {
+   "month": "2026-01",
+   "plant": "1200",
+   "revenue": 372298.0
+  },
+  {
+   "month": "2026-01",
+   "plant": "1300",
+   "revenue": 674522.0
+  },
+  {
+   "month": "2026-02",
+   "plant": "1100",
+   "revenue": 438055.0
+  },
+  {
+   "month": "2026-02",
+   "plant": "1200",
+   "revenue": 335560.0
+  },
+  {
+   "month": "2026-02",
+   "plant": "1300",
+   "revenue": 531790.0
+  },
+  {
+   "month": "2026-03",
+   "plant": "1100",
+   "revenue": 665103.0
+  },
+  {
+   "month": "2026-03",
+   "plant": "1200",
+   "revenue": 484288.0
+  },
+  {
+   "month": "2026-03",
+   "plant": "1300",
+   "revenue": 714542.0
+  },
+  {
+   "month": "2026-04",
+   "plant": "1100",
+   "revenue": 582857.0
+  },
+  {
+   "month": "2026-04",
+   "plant": "1200",
+   "revenue": 486052.0
+  },
+  {
+   "month": "2026-04",
+   "plant": "1300",
+   "revenue": 1049004.0
+  },
+  {
+   "month": "2026-05",
+   "plant": "1100",
+   "revenue": 711839.0
+  },
+  {
+   "month": "2026-05",
+   "plant": "1200",
+   "revenue": 710467.0
+  },
+  {
+   "month": "2026-05",
+   "plant": "1300",
+   "revenue": 892822.0
+  },
+  {
+   "month": "2026-06",
+   "plant": "1100",
+   "revenue": 828463.0
+  },
+  {
+   "month": "2026-06",
+   "plant": "1200",
+   "revenue": 882519.0
+  },
+  {
+   "month": "2026-06",
+   "plant": "1300",
+   "revenue": 868496.0
+  }
+ ],
+ "on_time": [
+  {
+   "month": "2024-01",
+   "plant": "1100",
+   "deliveries": 80,
+   "on_time": 67.0
+  },
+  {
+   "month": "2024-01",
+   "plant": "1200",
+   "deliveries": 74,
+   "on_time": 25.0
+  },
+  {
+   "month": "2024-01",
+   "plant": "1300",
+   "deliveries": 122,
+   "on_time": 74.0
+  },
+  {
+   "month": "2024-02",
+   "plant": "1100",
+   "deliveries": 90,
+   "on_time": 73.0
+  },
+  {
+   "month": "2024-02",
+   "plant": "1200",
+   "deliveries": 65,
+   "on_time": 26.0
+  },
+  {
+   "month": "2024-02",
+   "plant": "1300",
+   "deliveries": 112,
+   "on_time": 77.0
+  },
+  {
+   "month": "2024-03",
+   "plant": "1100",
+   "deliveries": 116,
+   "on_time": 79.0
+  },
+  {
+   "month": "2024-03",
+   "plant": "1200",
+   "deliveries": 67,
+   "on_time": 28.0
+  },
+  {
+   "month": "2024-03",
+   "plant": "1300",
+   "deliveries": 135,
+   "on_time": 87.0
+  },
+  {
+   "month": "2024-04",
+   "plant": "1100",
+   "deliveries": 119,
+   "on_time": 97.0
+  },
+  {
+   "month": "2024-04",
+   "plant": "1200",
+   "deliveries": 109,
+   "on_time": 57.0
+  },
+  {
+   "month": "2024-04",
+   "plant": "1300",
+   "deliveries": 145,
+   "on_time": 105.0
+  },
+  {
+   "month": "2024-05",
+   "plant": "1100",
+   "deliveries": 146,
+   "on_time": 121.0
+  },
+  {
+   "month": "2024-05",
+   "plant": "1200",
+   "deliveries": 106,
+   "on_time": 48.0
+  },
+  {
+   "month": "2024-05",
+   "plant": "1300",
+   "deliveries": 158,
+   "on_time": 100.0
+  },
+  {
+   "month": "2024-06",
+   "plant": "1100",
+   "deliveries": 117,
+   "on_time": 90.0
+  },
+  {
+   "month": "2024-06",
+   "plant": "1200",
+   "deliveries": 117,
+   "on_time": 45.0
+  },
+  {
+   "month": "2024-06",
+   "plant": "1300",
+   "deliveries": 157,
+   "on_time": 103.0
+  },
+  {
+   "month": "2024-07",
+   "plant": "1100",
+   "deliveries": 132,
+   "on_time": 99.0
+  },
+  {
+   "month": "2024-07",
+   "plant": "1200",
+   "deliveries": 112,
+   "on_time": 51.0
+  },
+  {
+   "month": "2024-07",
+   "plant": "1300",
+   "deliveries": 196,
+   "on_time": 145.0
+  },
+  {
+   "month": "2024-08",
+   "plant": "1100",
+   "deliveries": 124,
+   "on_time": 91.0
+  },
+  {
+   "month": "2024-08",
+   "plant": "1200",
+   "deliveries": 106,
+   "on_time": 50.0
+  },
+  {
+   "month": "2024-08",
+   "plant": "1300",
+   "deliveries": 146,
+   "on_time": 92.0
+  },
+  {
+   "month": "2024-09",
+   "plant": "1100",
+   "deliveries": 112,
+   "on_time": 88.0
+  },
+  {
+   "month": "2024-09",
+   "plant": "1200",
+   "deliveries": 88,
+   "on_time": 38.0
+  },
+  {
+   "month": "2024-09",
+   "plant": "1300",
+   "deliveries": 135,
+   "on_time": 96.0
+  },
+  {
+   "month": "2024-10",
+   "plant": "1100",
+   "deliveries": 146,
+   "on_time": 109.0
+  },
+  {
+   "month": "2024-10",
+   "plant": "1200",
+   "deliveries": 85,
+   "on_time": 36.0
+  },
+  {
+   "month": "2024-10",
+   "plant": "1300",
+   "deliveries": 158,
+   "on_time": 111.0
+  },
+  {
+   "month": "2024-11",
+   "plant": "1100",
+   "deliveries": 105,
+   "on_time": 80.0
+  },
+  {
+   "month": "2024-11",
+   "plant": "1200",
+   "deliveries": 70,
+   "on_time": 32.0
+  },
+  {
+   "month": "2024-11",
+   "plant": "1300",
+   "deliveries": 117,
+   "on_time": 83.0
+  },
+  {
+   "month": "2024-12",
+   "plant": "1100",
+   "deliveries": 76,
+   "on_time": 57.0
+  },
+  {
+   "month": "2024-12",
+   "plant": "1200",
+   "deliveries": 76,
+   "on_time": 29.0
+  },
+  {
+   "month": "2024-12",
+   "plant": "1300",
+   "deliveries": 95,
+   "on_time": 63.0
+  },
+  {
+   "month": "2025-01",
+   "plant": "1100",
+   "deliveries": 105,
+   "on_time": 84.0
+  },
+  {
+   "month": "2025-01",
+   "plant": "1200",
+   "deliveries": 97,
+   "on_time": 36.0
+  },
+  {
+   "month": "2025-01",
+   "plant": "1300",
+   "deliveries": 115,
+   "on_time": 71.0
+  },
+  {
+   "month": "2025-02",
+   "plant": "1100",
+   "deliveries": 109,
+   "on_time": 81.0
+  },
+  {
+   "month": "2025-02",
+   "plant": "1200",
+   "deliveries": 85,
+   "on_time": 29.0
+  },
+  {
+   "month": "2025-02",
+   "plant": "1300",
+   "deliveries": 100,
+   "on_time": 66.0
+  },
+  {
+   "month": "2025-03",
+   "plant": "1100",
+   "deliveries": 119,
+   "on_time": 92.0
+  },
+  {
+   "month": "2025-03",
+   "plant": "1200",
+   "deliveries": 83,
+   "on_time": 29.0
+  },
+  {
+   "month": "2025-03",
+   "plant": "1300",
+   "deliveries": 168,
+   "on_time": 117.0
+  },
+  {
+   "month": "2025-04",
+   "plant": "1100",
+   "deliveries": 143,
+   "on_time": 114.0
+  },
+  {
+   "month": "2025-04",
+   "plant": "1200",
+   "deliveries": 118,
+   "on_time": 53.0
+  },
+  {
+   "month": "2025-04",
+   "plant": "1300",
+   "deliveries": 175,
+   "on_time": 111.0
+  },
+  {
+   "month": "2025-05",
+   "plant": "1100",
+   "deliveries": 148,
+   "on_time": 112.0
+  },
+  {
+   "month": "2025-05",
+   "plant": "1200",
+   "deliveries": 115,
+   "on_time": 54.0
+  },
+  {
+   "month": "2025-05",
+   "plant": "1300",
+   "deliveries": 200,
+   "on_time": 132.0
+  },
+  {
+   "month": "2025-06",
+   "plant": "1100",
+   "deliveries": 139,
+   "on_time": 107.0
+  },
+  {
+   "month": "2025-06",
+   "plant": "1200",
+   "deliveries": 128,
+   "on_time": 57.0
+  },
+  {
+   "month": "2025-06",
+   "plant": "1300",
+   "deliveries": 179,
+   "on_time": 116.0
+  },
+  {
+   "month": "2025-07",
+   "plant": "1100",
+   "deliveries": 140,
+   "on_time": 112.0
+  },
+  {
+   "month": "2025-07",
+   "plant": "1200",
+   "deliveries": 103,
+   "on_time": 42.0
+  },
+  {
+   "month": "2025-07",
+   "plant": "1300",
+   "deliveries": 184,
+   "on_time": 118.0
+  },
+  {
+   "month": "2025-08",
+   "plant": "1100",
+   "deliveries": 136,
+   "on_time": 103.0
+  },
+  {
+   "month": "2025-08",
+   "plant": "1200",
+   "deliveries": 110,
+   "on_time": 33.0
+  },
+  {
+   "month": "2025-08",
+   "plant": "1300",
+   "deliveries": 162,
+   "on_time": 104.0
+  },
+  {
+   "month": "2025-09",
+   "plant": "1100",
+   "deliveries": 144,
+   "on_time": 114.0
+  },
+  {
+   "month": "2025-09",
+   "plant": "1200",
+   "deliveries": 109,
+   "on_time": 57.0
+  },
+  {
+   "month": "2025-09",
+   "plant": "1300",
+   "deliveries": 190,
+   "on_time": 132.0
+  },
+  {
+   "month": "2025-10",
+   "plant": "1100",
+   "deliveries": 151,
+   "on_time": 124.0
+  },
+  {
+   "month": "2025-10",
+   "plant": "1200",
+   "deliveries": 106,
+   "on_time": 49.0
+  },
+  {
+   "month": "2025-10",
+   "plant": "1300",
+   "deliveries": 173,
+   "on_time": 111.0
+  },
+  {
+   "month": "2025-11",
+   "plant": "1100",
+   "deliveries": 102,
+   "on_time": 82.0
+  },
+  {
+   "month": "2025-11",
+   "plant": "1200",
+   "deliveries": 88,
+   "on_time": 41.0
+  },
+  {
+   "month": "2025-11",
+   "plant": "1300",
+   "deliveries": 123,
+   "on_time": 72.0
+  },
+  {
+   "month": "2025-12",
+   "plant": "1100",
+   "deliveries": 84,
+   "on_time": 72.0
+  },
+  {
+   "month": "2025-12",
+   "plant": "1200",
+   "deliveries": 73,
+   "on_time": 27.0
+  },
+  {
+   "month": "2025-12",
+   "plant": "1300",
+   "deliveries": 127,
+   "on_time": 91.0
+  },
+  {
+   "month": "2026-01",
+   "plant": "1100",
+   "deliveries": 94,
+   "on_time": 79.0
+  },
+  {
+   "month": "2026-01",
+   "plant": "1200",
+   "deliveries": 74,
+   "on_time": 25.0
+  },
+  {
+   "month": "2026-01",
+   "plant": "1300",
+   "deliveries": 140,
+   "on_time": 97.0
+  },
+  {
+   "month": "2026-02",
+   "plant": "1100",
+   "deliveries": 110,
+   "on_time": 89.0
+  },
+  {
+   "month": "2026-02",
+   "plant": "1200",
+   "deliveries": 96,
+   "on_time": 40.0
+  },
+  {
+   "month": "2026-02",
+   "plant": "1300",
+   "deliveries": 128,
+   "on_time": 79.0
+  },
+  {
+   "month": "2026-03",
+   "plant": "1100",
+   "deliveries": 122,
+   "on_time": 98.0
+  },
+  {
+   "month": "2026-03",
+   "plant": "1200",
+   "deliveries": 126,
+   "on_time": 53.0
+  },
+  {
+   "month": "2026-03",
+   "plant": "1300",
+   "deliveries": 177,
+   "on_time": 106.0
+  },
+  {
+   "month": "2026-04",
+   "plant": "1100",
+   "deliveries": 148,
+   "on_time": 117.0
+  },
+  {
+   "month": "2026-04",
+   "plant": "1200",
+   "deliveries": 114,
+   "on_time": 53.0
+  },
+  {
+   "month": "2026-04",
+   "plant": "1300",
+   "deliveries": 221,
+   "on_time": 136.0
+  },
+  {
+   "month": "2026-05",
+   "plant": "1100",
+   "deliveries": 162,
+   "on_time": 132.0
+  },
+  {
+   "month": "2026-05",
+   "plant": "1200",
+   "deliveries": 149,
+   "on_time": 60.0
+  },
+  {
+   "month": "2026-05",
+   "plant": "1300",
+   "deliveries": 202,
+   "on_time": 133.0
+  }
+ ],
+ "cycle": [
+  {
+   "plant": "1100 Toronto DC",
+   "orders": 3419,
+   "order_to_ship_days": 4.5,
+   "ship_to_bill_days": 1.4,
+   "bill_to_cash_days": 43.0,
+   "total_o2c_days": 48.9
+  },
+  {
+   "plant": "1200 Montreal DC",
+   "orders": 2756,
+   "order_to_ship_days": 8.0,
+   "ship_to_bill_days": 1.4,
+   "bill_to_cash_days": 42.2,
+   "total_o2c_days": 51.6
+  },
+  {
+   "plant": "1300 Calgary DC",
+   "orders": 4323,
+   "order_to_ship_days": 5.6,
+   "ship_to_bill_days": 1.4,
+   "bill_to_cash_days": 40.8,
+   "total_o2c_days": 47.8
+  },
+  {
+   "plant": "All plants",
+   "orders": 10498,
+   "order_to_ship_days": 5.9,
+   "ship_to_bill_days": 1.4,
+   "bill_to_cash_days": 41.9,
+   "total_o2c_days": 49.2
+  }
+ ],
+ "late_payers": [
+  {
+   "name": "Laurentian Manufacturing Inc.",
+   "terms": "NT60",
+   "avg_days_past_due": 28.2,
+   "pct_paid_15plus_days_late": 93.5
+  },
+  {
+   "name": "Northern Manufacturing Inc.",
+   "terms": "NT30",
+   "avg_days_past_due": 27.8,
+   "pct_paid_15plus_days_late": 83.1
+  },
+  {
+   "name": "Great Lakes Utilities Corp.",
+   "terms": "NT60",
+   "avg_days_past_due": 27.8,
+   "pct_paid_15plus_days_late": 86.8
+  },
+  {
+   "name": "Summit Construction Corp.",
+   "terms": "NT30",
+   "avg_days_past_due": 27.8,
+   "pct_paid_15plus_days_late": 86.2
+  },
+  {
+   "name": "Maritime Utilities Group",
+   "terms": "NT30",
+   "avg_days_past_due": 27.6,
+   "pct_paid_15plus_days_late": 82.0
+  },
+  {
+   "name": "Northern Construction Group",
+   "terms": "NT45",
+   "avg_days_past_due": 27.5,
+   "pct_paid_15plus_days_late": 86.7
+  },
+  {
+   "name": "Rideau Mining Group",
+   "terms": "NT30",
+   "avg_days_past_due": 4.8,
+   "pct_paid_15plus_days_late": 7.1
+  },
+  {
+   "name": "Maritime Mining Inc.",
+   "terms": "NT45",
+   "avg_days_past_due": 4.0,
+   "pct_paid_15plus_days_late": 5.6
+  },
+  {
+   "name": "Rideau Construction Ltd.",
+   "terms": "NT60",
+   "avg_days_past_due": 3.6,
+   "pct_paid_15plus_days_late": 12.8
+  },
+  {
+   "name": "Harbour Facilities Corp.",
+   "terms": "NT30",
+   "avg_days_past_due": 3.6,
+   "pct_paid_15plus_days_late": 8.8
+  }
+ ],
+ "vendors": [
+  {
+   "name": "Keystone Components Co.",
+   "country": "CN",
+   "receipts": 326,
+   "pct_late": 40.2
+  },
+  {
+   "name": "Apex Components Ltd.",
+   "country": "CA",
+   "receipts": 213,
+   "pct_late": 38.0
+  },
+  {
+   "name": "Apex Tools LLC",
+   "country": "CA",
+   "receipts": 353,
+   "pct_late": 36.0
+  },
+  {
+   "name": "Delta Components Co.",
+   "country": "DE",
+   "receipts": 97,
+   "pct_late": 12.4
+  },
+  {
+   "name": "Delta Manufacturing LLC",
+   "country": "US",
+   "receipts": 222,
+   "pct_late": 11.7
+  },
+  {
+   "name": "Orion Industries Co.",
+   "country": "CA",
+   "receipts": 78,
+   "pct_late": 10.3
+  },
+  {
+   "name": "Titan Manufacturing Ltd.",
+   "country": "CA",
+   "receipts": 72,
+   "pct_late": 9.7
+  },
+  {
+   "name": "Falcon Components Inc.",
+   "country": "CA",
+   "receipts": 840,
+   "pct_late": 8.6
+  },
+  {
+   "name": "Titan Tools Inc.",
+   "country": "CN",
+   "receipts": 117,
+   "pct_late": 8.5
+  },
+  {
+   "name": "Crown Components LLC",
+   "country": "US",
+   "receipts": 95,
+   "pct_late": 7.4
+  }
+ ],
+ "aging": [
+  {
+   "aging_bucket": "1. Not yet due",
+   "open_items": 692,
+   "open_amount_cad": 3543295.0,
+   "pct_of_ar": 88.4
+  },
+  {
+   "aging_bucket": "2. 1-30 days overdue",
+   "open_items": 72,
+   "open_amount_cad": 452750.0,
+   "pct_of_ar": 11.3
+  },
+  {
+   "aging_bucket": "3. 31-60 days overdue",
+   "open_items": 5,
+   "open_amount_cad": 10113.0,
+   "pct_of_ar": 0.3
+  }
+ ],
+ "match": [
+  {
+   "match_result": "Matched",
+   "invoices": 12063,
+   "pct_invoices": 94.8,
+   "invoiced_cad": 53582447.0,
+   "overbilled_cad": 1.0
+  },
+  {
+   "match_result": "Price above PO (>1%)",
+   "invoices": 648,
+   "pct_invoices": 5.1,
+   "invoiced_cad": 2711996.0,
+   "overbilled_cad": 108201.0
+  },
+  {
+   "match_result": "Billed more than received",
+   "invoices": 15,
+   "pct_invoices": 0.1,
+   "invoiced_cad": 62771.0,
+   "overbilled_cad": 12379.0
+  },
+  {
+   "match_result": "Price and quantity mismatch",
+   "invoices": 2,
+   "pct_invoices": 0.0,
+   "invoiced_cad": 2079.0,
+   "overbilled_cad": 802.0
+  }
+ ],
+ "pr_to_po": [
+  {
+   "purchasing_group": "001",
+   "requisitions": 5520,
+   "avg_days_pr_to_po": 2.0,
+   "p90_days": 3.0,
+   "pct_over_5_days": 0.0
+  },
+  {
+   "purchasing_group": "002",
+   "requisitions": 3376,
+   "avg_days_pr_to_po": 3.5,
+   "p90_days": 5.0,
+   "pct_over_5_days": 0.0
+  },
+  {
+   "purchasing_group": "003",
+   "requisitions": 2140,
+   "avg_days_pr_to_po": 9.1,
+   "p90_days": 14.0,
+   "pct_over_5_days": 82.0
+  }
+ ],
+ "dso": [
+  {
+   "quarter_end": "2024-06-30",
+   "open_ar_cad": 2750374.0,
+   "billed_last_90d_cad": 5563334.0,
+   "dso_days": 44.5
+  },
+  {
+   "quarter_end": "2024-09-30",
+   "open_ar_cad": 2298390.0,
+   "billed_last_90d_cad": 5298707.0,
+   "dso_days": 39.0
+  },
+  {
+   "quarter_end": "2024-12-31",
+   "open_ar_cad": 1629001.0,
+   "billed_last_90d_cad": 4232332.0,
+   "dso_days": 34.6
+  },
+  {
+   "quarter_end": "2025-03-31",
+   "open_ar_cad": 2277843.0,
+   "billed_last_90d_cad": 4187281.0,
+   "dso_days": 49.0
+  },
+  {
+   "quarter_end": "2025-06-30",
+   "open_ar_cad": 3059300.0,
+   "billed_last_90d_cad": 5930062.0,
+   "dso_days": 46.4
+  },
+  {
+   "quarter_end": "2025-09-30",
+   "open_ar_cad": 2780517.0,
+   "billed_last_90d_cad": 6171260.0,
+   "dso_days": 40.6
+  },
+  {
+   "quarter_end": "2025-12-31",
+   "open_ar_cad": 1896130.0,
+   "billed_last_90d_cad": 4883006.0,
+   "dso_days": 34.9
+  },
+  {
+   "quarter_end": "2026-03-31",
+   "open_ar_cad": 2660131.0,
+   "billed_last_90d_cad": 5294398.0,
+   "dso_days": 45.2
+  },
+  {
+   "quarter_end": "2026-06-30",
+   "open_ar_cad": 4006158.0,
+   "billed_last_90d_cad": 7872690.0,
+   "dso_days": 45.8
+  }
+ ]
+}

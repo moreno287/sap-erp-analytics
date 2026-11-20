@@ -1,0 +1,4 @@
+purchasing_group,requisitions,avg_days_pr_to_po,p90_days,pct_over_5_days
+001,5520,2.0,3.0,0.0
+002,3376,3.5,5.0,0.0
+003,2140,9.1,14.0,82.0
